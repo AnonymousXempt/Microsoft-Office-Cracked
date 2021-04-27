@@ -36,21 +36,10 @@ Or you can scroll to the top of the page and click on the green 'Code' button an
 
 # **Images**
 
-### Image 1: 
 
-<img width="686" alt="Capture2" src="https://user-images.githubusercontent.com/82794434/116211690-3bc12480-a783-11eb-945c-50664516587a.PNG">
 
-### Image 2:
-<img width="686" alt="Capture3" src="https://user-images.githubusercontent.com/82794434/116211695-3cf25180-a783-11eb-8ef0-37757029840d.PNG">
-
-### Image 3:
-<img width="686" alt="Capture4" src="https://user-images.githubusercontent.com/82794434/116211698-3d8ae800-a783-11eb-9d40-0334122eb423.PNG">
-
-### Image 4:
-<img width="686" alt="Capture5" src="https://user-images.githubusercontent.com/82794434/116211700-3d8ae800-a783-11eb-88a2-5c5bd5858360.PNG">
-
-### Image 5:
+### Image 1:
 <img width="686" alt="Capture" src="https://user-images.githubusercontent.com/82794434/116206165-ae2f0600-a77d-11eb-9390-67710cb586f3.PNG">
 
-### Image 6:
+### Image 2:
 <img width="686" alt="Capture1" src="https://user-images.githubusercontent.com/82794434/116206168-af603300-a77d-11eb-8d06-9c1aef3a5297.PNG">
