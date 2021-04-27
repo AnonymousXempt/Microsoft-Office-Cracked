@@ -2,12 +2,12 @@
 Microsoft Office Cracked is a installer designed to install and crack Microsoft Office without having to pay the unnecessary money.
 ### ** *Images Also Available At The Bottom Of This File* **
 
-## **The Microft Office Crack File contains the following files:**
+## **The Microft-Office-Cracked Repository contains the following files:**
  
 - Microsoft Office 365 Setup
 - Activation Crack File
 - Installation & Activation Steps
-- Password = anonymousabo321
+
 
 # **Download**
 
@@ -18,15 +18,11 @@ Or you can scroll to the top of the page and click on the green 'Code' button an
     
 # **Installation Steps:**
 -------------------
-1. Firstly you will need to run the Main Installer
+1. Run as administrator "Microsoft Office Setup.exe"
 
-2. Navigate to the newly installed folder
+2. Installation process will take around 5-10 minutes depending on if you have a good internet speed
 
-3. Run as administrator "Microsoft Office Setup.exe"
-
-5. Installation process with take around 5-10 minutes if you have a good internet speed
-
-6.  Product is installed but its not activated yet.
+3.  Product is installed but its not activated yet.
 
 # **Activation Steps:**
 -----------------
