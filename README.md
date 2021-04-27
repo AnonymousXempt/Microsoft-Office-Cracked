@@ -16,11 +16,15 @@ Or you can scroll to the top of the page and click on the green 'Code' button an
     
 Installation Steps:
 -------------------
-1. Run as administrator "Microsoft Office Setup"
+1. Firstly you will need to run the Main Installer
 
-2. Installation process with take around 5-10 minutes if you have a good internet speed
+2. Navigate to the newly installed folder
 
-3. Product is installed but its not activated yet.
+3. Run as administrator "Microsoft Office Setup.exe"
+
+5. Installation process with take around 5-10 minutes if you have a good internet speed
+
+6.  Product is installed but its not activated yet.
 
 Activation Steps:
 -----------------
