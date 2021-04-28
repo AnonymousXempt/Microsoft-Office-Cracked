@@ -1,5 +1,5 @@
 # **Microsoft-Office-Cracked**
-Microsoft Office Cracked is a installer designed to install and crack Microsoft Office without having to pay the unnecessary money.
+Microsoft Office Cracked is designed to install and crack Microsoft Office without having to pay the unnecessary money.
 ### ** *Images Also Available At The Bottom Of This File* **
 
 ## **The Microft-Office-Cracked Repository contains the following files:**
